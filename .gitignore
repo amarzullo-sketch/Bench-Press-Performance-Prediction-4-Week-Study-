@@ -1,0 +1,7 @@
+# Keep raw health / workout data private
+Bench Project - *.csv
+output/*.csv
+
+# Python clutter
+__pycache__/
+*.pyc
