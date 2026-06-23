@@ -1,6 +1,6 @@
 # Bench Press Performance, Recovery, and Physiology
 
-A four-week self-tracking study examining how recovery, sleep, training load, fatigue, and physiology related to bench press performance across two participants.
+A four-week self-tracking study examining how recovery, sleep, training load, fatigue, and physiology related to bench press performance across two participants using Whoop.
 
 ## Project Goal
 
